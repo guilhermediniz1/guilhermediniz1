@@ -3,12 +3,13 @@
   <a href="https://github.com/guilhermediniz1?tab=repositories" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermediniz1&theme=dark&show_icons=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermediniz1&layout=compact&theme=dark">
-    <img height="180em" src="coffee.gif">
+    </a>
 </div>
   
 <br>
   
 <div align="center" style="display: inline_block">
+  <div>
     <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
