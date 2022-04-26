@@ -1,8 +1,8 @@
 # Olá, me chamo Guilherme Diniz e sou desenvolvedor Frontend.
 <div align="center">
   <a href="https://github.com/guilhermediniz1?tab=repositories" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermediniz1&theme=dark&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermediniz1&layout=compact&theme=dark">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=guilhermediniz1&theme=dark&show_icons=true">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermediniz1&layout=compact&theme=dark">
     </a>
 </div>
   
