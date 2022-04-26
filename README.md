@@ -1,10 +1,24 @@
-# Guilherme Diniz
-<a href="mailto:guilhermedinizlau@gmail.com">![LINKEDIN](https://user-images.githubusercontent.com/50873941/153510215-8abb7913-d9ca-4b80-8eab-3409c13bdf28.png)</a>
-<a href="https://www.linkedin.com/in/guilherme-diniz-37886a1bb/">![GMAIL](https://user-images.githubusercontent.com/50873941/153510210-008d3498-1e96-4498-8618-585110ac3e9e.png)</a>
-<a href="https://www.instagram.com/guilhermedinizl/">![INSTAGRAM](https://user-images.githubusercontent.com/50873941/153510214-4f48dc92-6569-498f-ba7d-2083a8daec39.png)</a>
+# Olá, me chamo Guilherme Diniz e sou desenvolvedor Frontend.
+<div align="center">
+  <a href="https://github.com/guilhermediniz1?tab=repositories" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermediniz1&theme=dark&show_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermediniz1&layout=compact&theme=dark">
+    <img height="180em" src="coffee.gif">
+</div>
+  
+<br>
+  
+<div align="center" style="display: inline_block">
+    <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-Frontend developer - React.js
-
-Being 1% better every day.
-I think discipline and consistency are the key to get everything in life.
-I'm looking for my first job oportunity in Frontend Development. Currently I'm diving into React and another development tools every day to learn the maximum as I can.
+<br>
+  
+<div align="center" style="display: inline_block">
+  <a href="https://instagram.com/guilhermedinizl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermedinizlau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-diniz-37886a1bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
