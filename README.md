@@ -1,4 +1,4 @@
-# Olá, me chamo Guilherme Diniz e sou desenvolvedor Frontend.
+# Olá, me chamo Guilherme Diniz e sou o desenvolvedor Web que você precisa.
 <div align="center">
   <a href="https://github.com/guilhermediniz1?tab=repositories" >
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=guilhermediniz1&theme=dark&show_icons=true">
@@ -13,7 +13,7 @@
     <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 <br>
