@@ -1,4 +1,4 @@
-# Olá, me chamo Guilherme Diniz e sou o desenvolvedor Web que você precisa.
+# Hello there! I'm Guilherme Diniz, and I'm a Web Developer.
 <div align="center">
   <a href="https://github.com/guilhermediniz1?tab=repositories" >
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=guilhermediniz1&theme=dark&show_icons=true">
